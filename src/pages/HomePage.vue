@@ -5,7 +5,7 @@ import MainLayout from '@/layouts/MainLayout.vue'
 
 <template>
 <main-layout>
-  Demo Home page
+  Your home page
 </main-layout>
 </template>
 

@@ -9,7 +9,7 @@
   </header>
   <!--Content-->
   <main>
-    Content
+    <slot/>
   </main>
   <!--Footer-->
   <footer>
