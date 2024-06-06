@@ -43,6 +43,7 @@
     "npm-run-all2": "^6.1.2",
     "postcss": "^8.4.38",
     "prettier": "^3.2.5",
+    "sass": "^1.77.4",
     "start-server-and-test": "^2.0.3",
     "tailwindcss": "^3.4.4",
     "typescript": "~5.4.0",
